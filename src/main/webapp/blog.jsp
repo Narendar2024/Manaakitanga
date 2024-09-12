@@ -79,7 +79,7 @@
             <div class="post-grid">
                 <!-- Blog Post 1 -->
                 <div class="post">
-                    <img src="images/blog1.jpg" alt="Blog Image">
+                    <img src="images/blog-post-1.jpg" alt="Blog Image">
                     <div class="post-info">
                         <p class="post-date">Sept 10, 2018 Admin 3</p>
                         <h3 class="post-title">Hurricane Irma has devastated Florida</h3>
@@ -88,7 +88,7 @@
                 </div>
                 <!-- Blog Post 2 -->
                 <div class="post">
-                    <img src="images/blog1.jpg" alt="Blog Image">
+                    <img src="images/blog-post-2.jpg" alt="Blog Image">
                     <div class="post-info">
                         <p class="post-date">Sept 10, 2018 Admin 3</p>
                         <h3 class="post-title">Hurricane Irma has devastated Florida</h3>
@@ -97,7 +97,7 @@
                 </div>
                 <!-- Blog Post 3 -->
                 <div class="post">
-                    <img src="images/blog1.jpg" alt="Blog Image">
+                    <img src="images/blog-post-3.jpg" alt="Blog Image">
                     <div class="post-info">
                         <p class="post-date">Sept 10, 2018 Admin 3</p>
                         <h3 class="post-title">Hurricane Irma has devastated Florida</h3>
@@ -121,9 +121,9 @@
             </div>
             <div class="col-md-4">
                 <h5 class="footer-title">CONTACTS</h5>
-                <p><i class="fas fa-map-marker-alt"></i> 92 Bowery St., NY 10013</p>
-                <p><i class="fas fa-envelope"></i> bighearts@mail.com</p>
-                <p><i class="fas fa-phone-alt"></i> +1 800 123 456 789</p>
+                <p><i class="fas fa-map-marker-alt"></i> Vidyanagar, Hyderabad</p>
+                <p><i class="fas fa-envelope"></i> manaakitanga@mail.com</p>
+                <p><i class="fas fa-phone-alt"></i> +91 9876543210/p>
                 <div>
                     <a href="#" class="social-icon"><i class="fab fa-twitter"></i></a>
                     <a href="#" class="social-icon"><i class="fab fa-facebook-f"></i></a>
